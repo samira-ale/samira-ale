@@ -1,6 +1,6 @@
 <h1 align="center"><b>:palm_tree:Samira Ale:palm_tree:</b>
 
-<h2 align="center"><b>Aluna de nálise e desenvolvimento de sistemas</b>
+<h2 align="center"><b>Aluna de Análise e Desenvolvimento de Sistemas</b>
   
   <br>
   
