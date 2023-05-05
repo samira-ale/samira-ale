@@ -8,6 +8,6 @@
   - Atualmente estudando Java com foco no desenvolvimento mobile
   - Aluna do 1º semestre na Fatec de Ribeirão Preto
   - Ilustradora
-  - Estudando UI e Ux Design
+ 
   
   
