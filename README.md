@@ -1,4 +1,4 @@
-<h1 align="center"><b>:palm_tree:Samira Ale:palm_tree:</b>
+<h1 align="center"><b>:potted_plant:Samira Ale:potted_plant:</b>
 
 <h2 align="center"><b>Web Designer</b>
   
